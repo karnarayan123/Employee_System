@@ -1,0 +1,102 @@
+body{
+    background-color: #2747fc;
+    margin: 0;
+    padding:  0;
+}
+
+.colored-box {
+    margin-top: 30px;
+    width: 600px;
+    height: 420px;
+    background-color: lightblue;
+  }
+.colored-box:hover {
+    box-shadow: 0px 0px 50px rgba(16, 49, 6);
+  }
+#input_data
+{
+    width: 570px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    border-color: #368ff57c;
+}
+#gender
+{
+    width: 575px;
+    height: 36px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: #368ff57c;
+}
+#b1
+{
+    width: 112px;
+    height: 30px;
+    color: #fff;
+    background-color: #878181;
+    border-radius: 5px;
+}
+#b2
+{
+    width: 112px;
+    height: 30px;
+    color: #fff;
+    background-color: purple ;
+    border-radius: 5px;
+}
+#b3
+{
+    width: 112px;
+    height: 30px;
+    color: #fff;
+    background-color: #ff7b00;
+    border-radius: 5px;
+}
+#b4
+{
+    width: 112px;
+    height: 30px;
+    color: #fff;
+    background-color: #ff0000;
+    border-radius: 5px;
+}
+#b5
+{
+    width: 112px;
+    height: 30px;
+    color: #fff;
+    background-color: green;
+    border-radius: 5px;
+}
+#bt
+{
+    margin-top: 10px;
+    
+}
+#b1:hover {
+    box-shadow: 2px 5px 4px rgba(19, 22, 22, 0.227);
+    color: #fff;
+    cursor: pointer;
+  }
+  #b2:hover {
+    box-shadow: 2px 5px 4px rgba(19, 22, 22, 0.227);
+    color: #fff;
+    cursor: pointer;
+  }
+  #b3:hover {
+    box-shadow: 2px 5px 4px rgba(19, 22, 22, 0.227);
+    color: #fff;
+    cursor: pointer;
+  }
+  #b4:hover {
+    box-shadow: 2px 5px 4px rgba(19, 22, 22, 0.227);
+    color: #fff;
+    cursor: pointer;
+  }
+  #b5:hover {
+    box-shadow: 2px 5px 4px rgba(19, 22, 22, 0.227);
+    color: #fff;
+    cursor: pointer;
+  }
